@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Verifikation</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background-color: #f8f8f8; }
+    h1 { color: green; }
+  </style>
+</head>
+<body>
+  <h1>✅ Verifikation erfolgreich</h1>
+  <p>Die Bescheinigung vom <strong>01.04.2025</strong> ist <strong>gültig</strong>.</p>
+  <p>Verifikationsnummer: <code>644D6B42546E6264</code></p>
+</body>
+</html>
